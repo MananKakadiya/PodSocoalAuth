@@ -41,7 +41,7 @@ spec.pod_target_xcconfig = { "SWIFT_VERSION" => "5.0" }
 spec.requires_arc = true
 spec.source_files = 'MKFBLogin/Classes/**/*.{swift,h,m}'
 
-spec.source = { :git => 'https://gitlab.coruscate.in:8443/mobility-okr/manan-kakadiya.git', :tag => spec.version.to_s }
+spec.source = { :git => 'https://github.com/MananKakadiya/PodSocoalAuth.git', :tag => spec.version.to_s }
 
 spec.public_header_files = "Classes/*/.h"
 spec.resource_bundles = {
