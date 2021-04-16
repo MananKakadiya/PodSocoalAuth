@@ -3,5 +3,4 @@
 //
 
 #import "UIViewController+Utils.h"
-#import "GTMSessionFetcher.h"
 #import "AppAuthCore.h"
