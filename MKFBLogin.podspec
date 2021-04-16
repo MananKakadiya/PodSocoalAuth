@@ -28,7 +28,7 @@ spec.license = { :type => "MIT", :file => "LICENSE" }
 
 # ――― Author Metadata ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-spec.author = { "@manan.kakadiya" => "manan.kakadiya@coruscate.work" }
+spec.author = { "@MananKakadiya" => "kakadiyamanan@gmail.com" }
 
 # Or just: spec.author = "@manan.kakadiya"
 
