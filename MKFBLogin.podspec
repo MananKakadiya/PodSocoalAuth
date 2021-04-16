@@ -74,7 +74,7 @@ spec.resource_bundles = {
 # the lib prefix of their name.
 #
 
-# spec.framework = "GoogleSignIn.framework"
+# spec.framework = ""
 
 # spec.frameworks = "SomeFramework", "AnotherFramework"
 
